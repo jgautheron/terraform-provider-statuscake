@@ -5,7 +5,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 
-	"github.com/StatusCakeDev/terraform-provider-statuscake/v2/internal/provider"
+	"github.com/jgautheron/terraform-provider-statuscake/v2/provider"
 )
 
 var testProviders = map[string]*schema.Provider{

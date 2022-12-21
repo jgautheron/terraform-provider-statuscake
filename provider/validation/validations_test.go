@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/StatusCakeDev/terraform-provider-statuscake/v2/internal/provider/validation"
+	"github.com/jgautheron/terraform-provider-statuscake/v2/provider/validation"
 )
 
 func TestIsEmailAddress(t *testing.T) {
